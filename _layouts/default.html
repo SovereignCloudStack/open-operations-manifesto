@@ -1,0 +1,35 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo title=false %}
+
+<title>
+  {%- if title -%}{{ title }}
+  {%- elsif page.title -%}{{ page.title }}
+  {%- else -%}{{ site.title }}
+  {%- endif -%}
+</title>
+
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="robots" content="index,follow">
+
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}" />
+
+</head>
+<body>
+
+{% include header.html %}
+
+<main>{{ content }}</main>
+
+{% include footer.html %}
+
+{% include scripts.html %}
+</body>
+</html>

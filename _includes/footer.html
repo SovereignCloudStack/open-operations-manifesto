@@ -1,0 +1,12 @@
+<footer class="footer">
+  <div class="footer__credit">
+    <div>
+      <p>
+        <small>{{ site.footer }}</small>
+      </p>
+    </div>
+    {% if site.layout.theme_switch != false %}
+      {% include appearance.html %}
+    {% endif %}
+  </div>
+</footer>
