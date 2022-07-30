@@ -1,4 +1,4 @@
-# Open Operation Manifesto
+# Open Operations Manifesto
 
 ## Attribution
 
