@@ -42,6 +42,6 @@ We are still at the beginning of a new movement, which is becoming increasingly 
 
 <nav class="navbar navbar-light fixed-bottom" style="background-color: var(--bs-warning)">
   <div class="container">
-    <span><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>This manifesto is currently in progress! {% if site.github_sha %}– Based on commit <a href="https://github.com/SovereignCloudStack/open-operations-manifesto/commit/{{site.github_sha}}" target="_blank"><span class="badge rounded-pill bg-secondary">{{site.github_sha | slice: 0, 6 }}</span></a>.{% endif %}</span>
+    <span><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>This manifesto is currently in progress! {% if site.github_sha %}– Based on commit <a href="https://github.com/SovereignCloudStack/open-operations-manifesto/commit/{{site.github_sha}}" target="_blank"><span class="badge rounded-pill bg-secondary">{{site.github_sha | slice: 0, 6 }}</span></a>{% endif %}</span>
   </div>
 </nav>
