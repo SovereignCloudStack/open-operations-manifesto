@@ -1,0 +1,32 @@
+name: Build and Deploy to Github Pages
+
+on:
+  push:
+    branches:
+      - main  # Here source code branch is `main`, it could be other branch
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      # Use GitHub Actions' cache to cache dependencies on servers
+      - uses: actions/cache@v3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      # Use GitHub Jekyll Action to build and deploy newsletter to gh-pages branch
+      - uses: helaili/jekyll-action@v2
+        id: build
+        with:
+          jekyll_src: "."
+          jekyll_env: production
+          pre_build_commands: ""
+          build_only: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: gh-pages
+          target_path: "/"
+          keep_history: false
+          jekyll_build_options: "--config _config.yml"
