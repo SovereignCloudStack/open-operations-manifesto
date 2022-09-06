@@ -22,7 +22,11 @@ We are still at the beginning of a new movement, which is becoming increasingly 
 [...]
 
 ## We're transparent about our operational processes
-[...]
+We share our internal processes for the sake of transparency. We firmly believe that transparency leads to better and more reliable processes. We are convinced that publishing well-documented operational processes offers a great opportunity to gather feedback and inspiration from the wide public. 
+ 
+Likewise, we are convinced that us sharing our operational experiences can be of inspiration and benefit for others. In today's business environment, most companies are facing the same challenges. By sharing knowledge the same way the open source community shares software, a common knowledge base can become a reality, allowing everybody to benefit. 
+ 
+We aim to get away from being a big black box and become a source of shared knowledge. We consider the disclosure of internal processes as an essential step towards this direction.
 
 ---
 ## About this manifesto
