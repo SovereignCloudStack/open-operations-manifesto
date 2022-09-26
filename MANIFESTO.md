@@ -16,7 +16,7 @@ We are still at the beginning of a new movement, which is becoming increasingly 
 [...]
 
 ## We believe that failures make us experts
-We firmly believe that failures make us experts. The way we handle mistakes is how we become better. We think, that handling mistakes in an optimal way means to communicate about them openly and without shame. We are convinced that the culture we build around failures is the key for an innovative environment: Not being afraid of making mistakes opens the door to trying new things, without having the fear to fail. We encourage people to raise their voice - not only in case of success, but also in case of failure. We are sure, that this is one of the best ways to prevent others from making the same mistakes we did.
+We firmly believe that failures make us experts. The way we handle mistakes is how we become better. We think, that handling mistakes in an optimal way means to communicate about them openly and without shame. We are convinced that the culture we build around failures is fundamental for an innovative environment: Not being afraid of making mistakes opens the door to trying new things, without having the fear to fail. We encourage people to raise their voice - not only in case of success, but also in case of failure. We are sure, that this is one of the best ways to prevent others from making the same mistakes we did.
 
 ## We're transparent about our incidents
 [...]
