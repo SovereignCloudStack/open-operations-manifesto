@@ -9,10 +9,10 @@ While software as a means of production has been and is being increasingly colle
 
 We are still at the beginning of a new movement, which is becoming increasingly important as the overall complexity of software stacks increases. For true self-determination in the ever-growing digital realm, we urgently need to build skills and share the gained knowledge freely and in unlimited ways also in the realm of operational knowledge — exactly the way we started with software code almost 40 years ago. Let’s start closing the gap to have open source style collaboration not just for the Dev piece in DevOps. And this is just another urgently needed piece to enhance and grow the overall digital capabilities for achieving sovereignty in the digital realm.
 
-## We share knowledge
+## We build a community of practice
 [...]
 
-## We build a community of practice
+## We share knowledge
 [...]
 
 ## We believe that failures make us experts
