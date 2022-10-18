@@ -1,4 +1,15 @@
 <header class="header">
-  <h1>{{ site.title }}</h1>
-  {% if site.description %}<h2>{{ site.description | escape }}</h2>{% endif %}
+    <img class="logo mx-auto d-none d-sm-block" src={{ "assets/oom.svg" |
+    prepend: site.baseurl }} style="max-height: 150px; max-width: 600px" alt={{ site.title }} - {{ site.description }} />
+    <div class="mx-auto d-sm-none">
+        <img
+            class="logo mx-auto"
+            src="{{ "assets/oom-circle.svg" | prepend: site.baseurl }}"
+            style="max-height: 150px; max-width: 100px"
+            alt="{{ site.title }} - {{
+        site.description}}"
+        />
+        <h1>{{ site.title }}</h1>
+        <h2>{{ site.description | escape }}</h2>
+    </div>
 </header>
