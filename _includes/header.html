@@ -19,6 +19,7 @@
         window.addEventListener("load", function () {
             const lightLogo = document.getElementById("lightLogo");
             const darkLogo = document.getElementById("darkLogo");
+            document.querySelector("html").setAttribute("data-theme", "light");
 
             const setLightLogo = () => {
                 lightLogo.setAttribute("style", "display:block!important");
