@@ -3,6 +3,9 @@
 
 @charset "utf-8";
 
+$lato-font-path: '../fonts/lato';
+
+@import "lato/_public-api";
 @import "bootstrap/bootstrap";
 @import "oinam-jekyll/oinam-jekyll";
 @import "style", "custom";
