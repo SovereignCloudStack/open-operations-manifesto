@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-image: openops.png
+image: assets/openops.png
 ---
 Open Infrastructure technology has become increasingly mature. However, the greatest software is useless if it cannot be operated confidently. For this to happen, skills and knowledge must be built up, fostered and retained. In an increasingly competitive market for skilled people and increasingly complex IT systems, this is becoming an ever-greater challenge for governments, institutions, and companies. How can we operate digital offerings in a self-determined, secure and qualitatively excellent manner?
 
