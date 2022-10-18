@@ -28,23 +28,38 @@
                 lightLogo.setAttribute("style", "display:none!important");
                 darkLogo.setAttribute("style", "display:block!important");
             };
+            const setNoLogo = () => {
+                lightLogo.setAttribute("style", "display:none!important");
+                darkLogo.setAttribute("style", "display:none!important");
+            };
 
             const update = () => {
                 let theme = document.querySelector("html").dataset.theme;
 
                 if (theme === "light") {
-                    setLightLogo();
+                    if (window.innerWidth > 576) {
+                        setLightLogo();
+                    } else {
+                        setNoLogo();
+                    }
                 }
 
                 if (theme === "dark") {
-                    setDarkLogo();
+                    if (window.innerWidth > 576) {
+                        setDarkLogo();
+                    } else {
+                        setNoLogo();
+                    }
                 }
             };
             update();
 
             document
                 .querySelector("input[id=checkbox]")
-                .addEventListener("input", () => setTimeout(() => update(), 50));
+                .addEventListener("input", () =>
+                    setTimeout(() => update(), 50)
+                );
+            window.addEventListener("resize", () => update());
         });
     </script>
 </header>
