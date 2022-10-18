@@ -1,15 +1,50 @@
 <header class="header">
-    <img class="logo mx-auto d-none d-sm-block" src={{ "assets/oom.svg" |
-    prepend: site.baseurl }} style="max-height: 150px; max-width: 600px" alt={{ site.title }} - {{ site.description }} />
-    <div class="mx-auto d-sm-none">
-        <img
-            class="logo mx-auto"
-            src="{{ "assets/oom-circle.svg" | prepend: site.baseurl }}"
-            style="max-height: 150px; max-width: 100px"
-            alt="{{ site.title }} - {{
-        site.description}}"
+    <div id="logoContainer">
+        <img class="logo mx-auto d-none d-sm-block" id="lightLogo" src={{
+        "assets/oom.svg" | prepend: site.baseurl }} style="max-height: 150px;
+        max-width: 600px" alt={{ site.title }} - {{ site.description }} /> <img
+        class="logo mx-auto d-none d-sm-block" id="darkLogo" src={{
+        "assets/oom-inverted.svg" | prepend: site.baseurl }} style="max-height:
+        150px; max-width: 600px" alt={{ site.title }} - {{ site.description }}
         />
+    </div>
+    <div class="mx-auto d-sm-none">
+        <img class="logo mx-auto" src="{{ "assets/oom-circle.svg" | prepend:
+        site.baseurl }}" style="max-height: 150px; max-width: 100px" alt="{{
+        site.title }} - {{ site.description}}" />
         <h1>{{ site.title }}</h1>
         <h2>{{ site.description | escape }}</h2>
     </div>
+    <script>
+        window.addEventListener("load", function () {
+            const lightLogo = document.getElementById("lightLogo");
+            const darkLogo = document.getElementById("darkLogo");
+
+            const setLightLogo = () => {
+                lightLogo.setAttribute("style", "display:block!important");
+                darkLogo.setAttribute("style", "display:none!important");
+            };
+            const setDarkLogo = () => {
+                lightLogo.setAttribute("style", "display:none!important");
+                darkLogo.setAttribute("style", "display:block!important");
+            };
+
+            const update = () => {
+                let theme = document.querySelector("html").dataset.theme;
+
+                if (theme === "light") {
+                    setLightLogo();
+                }
+
+                if (theme === "dark") {
+                    setDarkLogo();
+                }
+            };
+            update();
+
+            document
+                .querySelector("input[id=checkbox]")
+                .addEventListener("input", () => setTimeout(() => update(), 50));
+        });
+    </script>
 </header>
