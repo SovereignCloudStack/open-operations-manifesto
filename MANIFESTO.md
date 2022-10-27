@@ -13,7 +13,7 @@ From time to time, we can get mentally stuck and may need a sparring partner to 
 ## We share knowledge
 Availability of knowledge and skilled engineers is the limiting factor for many organizations to adopt, leverage and successfully operate (complex) technology.
 While the open source movement has been successful in collectivizing a lot of software, organizations much too often continue to protect operational knowledge like a holy grail. This must be overcome to allow engineers to learn more effectively and to mitigate the shortage of available experience.
-We encourage organizations to collect this operational knowledge, make it available in their teams and share it with the broader Open Operations community.
+We encourage organizations to collect this operational knowledge, make it available to their teams and share it with the broader Open Operations community.
 
 ## We believe that failures make us experts
 We firmly believe that failures make us experts. The way we handle mistakes is how we become better. We think, that handling mistakes in an optimal way means to communicate about them openly and without shame. We are convinced that the culture we build around failures is fundamental for an innovative environment: Not being afraid of making mistakes opens the door to trying new things, without having the fear to fail. We encourage people to raise their voice - not only in case of success, but also in case of failure. We are sure, that this is one of the best ways to prevent others from making the same mistakes we did.
