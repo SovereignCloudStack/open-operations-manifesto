@@ -35,4 +35,3 @@ jobs:
           target_path: "/"
           keep_history: false
           jekyll_build_options: "--config _config.yml"
-
