@@ -13,6 +13,7 @@ GEM
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    bigdecimal (3.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
     em-websocket (0.5.2)
@@ -72,6 +73,7 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
 
 PLATFORMS
   universal-darwin-20
@@ -79,8 +81,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bigdecimal
   bundler
   oinam-jekyll!
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.18
