@@ -32,7 +32,9 @@ We aim to get away from being a big black box and become a source of shared know
 
 ## About this manifesto
 
-[...]
+The Open Operations Manifesto was initiated by the [Sovereign Cloud Stack Community](https://scs.community) with the goal to foster transparency, share knowledge and build communities of practice in the domain of IT operations. It invites organizations to adhere to these collaboratively concluded priniciples and to make an important step ahead. We're happy for new organizations to join this movement and contribute to our mission.
+
+We encourage you to join our [mailing list](https://scs.sovereignit.de/mailman3/postorius/lists/list.openoperations.org/) and attend our regular meetings. Should you want to contribute to our manifesto or spread the word by signing it, please read through the [README](https://github.com/SovereignCloudStack/open-operations-manifesto/#readme) or reach out to us at <info@openoperations.org>.
 
 ### Authors
 
