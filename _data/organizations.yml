@@ -1,3 +1,6 @@
+- name: OSISM GmbH
+  logo: /assets/osism.png
+  url: "https://osism.tech"
 - name: Sovereign Cloud Stack
   logo: /assets/scs.svg
   url: "https://scs.community"
