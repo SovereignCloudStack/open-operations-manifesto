@@ -37,12 +37,6 @@ The Open Operations Manifesto is initiated by the [Sovereign Cloud Stack Communi
 
 We encourage you to join our [mailing list](https://scs.sovereignit.de/mailman3/postorius/lists/list.openoperations.org/) and attend our regular meetings. If you want to contribute to our manifesto or spread the word by signing it, please read through the [README](https://github.com/SovereignCloudStack/open-operations-manifesto/#readme) or reach out to us at <info@openoperations.org>.
 
-### Authors
-
-{% include authors.html %}
-
-### Supporting organizations
-
 {% include organizations.html %}
 
 <nav class="navbar navbar-light fixed-bottom" style="background-color: var(--bs-warning)">

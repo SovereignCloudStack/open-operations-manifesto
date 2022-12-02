@@ -1,6 +1,41 @@
-- name: OSISM GmbH
-  logo: /assets/osism.png
-  url: "https://osism.tech"
-- name: Sovereign Cloud Stack
-  logo: /assets/scs.svg
-  url: "https://scs.community"
+founding:
+  - name: OSISM GmbH
+    logo: /assets/osism.png
+    url: "https://osism.tech"
+    contributors:
+      - name: Christian Berendt
+        role: CEO
+  - name: Sovereign Cloud Stack
+    logo: /assets/scs.svg
+    url: "https://scs.community"
+    contributors:
+      - name: Eduard Itrich
+        role: Open-Source Community Manager
+      - name: Felix Kronlage-Dammers
+        role: Product Owner Iaas & Operations
+      - name: Maximilian Wolfs
+        role: Knowledge Management Engineer
+      - name: Kurt Garloff
+        role: CTO
+  - name: PlusServer
+    logo: /assets/plusserver.png
+    url: "https://plusserver.de"
+    contributors:
+      - name: Ralf Heiringhoff
+        role: Cloud Architect
+  - name: Wavecon
+    logo: /assets/wavecon.png
+    url: "https://wavecon.de"
+    contributors:
+      - name: Cemil Degirmenci
+        role: CEO
+      - name: Katharina Heinritz
+        role: –
+  - name: Cloudical
+    logo: /assets/cloudical.png
+    url: "https://cloudical.de"
+    contributors:
+      - name: Friederike Zelke
+        role: –
+
+supporting:
