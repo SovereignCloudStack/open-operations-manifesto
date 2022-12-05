@@ -1,5 +1,11 @@
 # Open Operations Manifesto
 
+## Licenses
+
+The content of this repository is published under multiple licenses.
+The manifesto itself is licensed under [CC-BY-SA 4.0](LICENSE-DOCS).
+All source code is licensed under the [MIT](LICENSE-CODE) license.
+
 ## I want to sign the manifesto. How can I do this?
 
 Thank you for intending to sign our Open Operations Manifesto.
