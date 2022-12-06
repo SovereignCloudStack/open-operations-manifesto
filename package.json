@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "lato-font": "^3.0.0"
+  },
+  "dependencies": {
+    "fork-awesome": "^1.2.0"
   }
 }

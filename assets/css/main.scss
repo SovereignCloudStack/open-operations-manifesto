@@ -4,8 +4,10 @@
 @charset "utf-8";
 
 $lato-font-path: '../fonts/lato';
+$fa-font-path:   '../fonts/fork-awesome';
 
 @import "lato/_public-api";
+@import "fork-awesome/fork-awesome";
 @import "bootstrap/bootstrap";
 @import "oinam-jekyll/oinam-jekyll";
 @import "style", "custom";

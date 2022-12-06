@@ -21,3 +21,20 @@ h1, h2 {
 p {
     @include lato-font('normal');
 }
+
+.anchor-icon {
+  padding-left: 0.4em;
+  display: none;
+  font-size: calc(65%);
+  -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  -moz-transition: opacity 0.2s ease-in-out 0.1s;
+  -ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .anchor-icon,
+h3:hover .anchor-icon,
+h4:hover .anchor-icon,
+h5:hover .anchor-icon,
+h6:hover .anchor-icon {
+  display: inline-block;
+}
