@@ -2,7 +2,11 @@
   <div class="footer__credit">
     <div>
       <p>
-        <small>{{ site.footer }}</small>
+        <small>Open Operations Manifesto
+        {% if site.github_sha %}– Based on commit <a href="https://github.com/SovereignCloudStack/open-operations-manifesto/commit/{{site.github_sha}}" target="_blank"><span class="badge rounded-pill bg-secondary">{{site.github_sha | slice: 0, 6 }}</span></a>{% endif %}
+        — Released under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>
+
+        </small>
       </p>
     </div>
     {% if site.layout.theme_switch != false %}
