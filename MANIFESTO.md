@@ -11,7 +11,7 @@ The answer to this must be the collectivization of operational knowledge, just a
 
 ## [We](#supporting-organizations) are building a community of practice
 
-in other, more innovative ways. Open Operations is building a community of practice to keep the barrier to market entry low and create a thriving environment for easy and convenient exchange. Regardless of the individual level of knowledge, everyone is encouraged to contribute and thereby enriches this community of practice with their knowledge and individual views. Communities of practice connect through various channels, serving both asynchronous and synchronous communication needs in the form of pair operating or on a larger scale to solve these challenges cooperatively. We are hence building a network by encouraging organizations to foster and connect internal and external communities of practice.
+From time to time, we can become mentally stumped and may need a sparring partner to think in other, more innovative ways. Open Operations is building a community of practice to keep the barrier to market entry low and create a thriving environment for easy and convenient exchange. Regardless of the individual level of knowledge, everyone is encouraged to contribute and thereby enriches this community of practice with their knowledge and individual views. Communities of practice connect through various channels, serving both asynchronous and synchronous communication needs in the form of pair operating or on a larger scale to solve these challenges cooperatively. We are hence building a network by encouraging organizations to foster and connect internal and external communities of practice.
 
 ## [We](#supporting-organizations) share knowledge
 
