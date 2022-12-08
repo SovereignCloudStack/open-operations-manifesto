@@ -3,7 +3,7 @@ layout: page
 permalink: /
 image: assets/openops.png
 ---
-We – [the founding and supporting organizations](#supporting-organizations) –  proclaim our primary objectives to be transparency and the sharing of knowledge, and are in the process of building a community of practice – Open Operations.
+We – [the founding and supporting organizations](#supporting-organizations) – proclaim our primary objectives to be transparency and the sharing of knowledge, and are in the process of building a community of practice – Open Operations.
 
 Open Source technology has become increasingly mature. However, the greatest software is useless if it cannot be operated with full confidence. For this to happen, it is imperative that skills and knowledge be built up, fostered, and retained. In an increasingly competitive market for skilled people and increasingly complex IT systems, this is becoming an ever greater challenge for governments, institutions, and companies. How can we operate digital offerings in a self-determined, secure, and supremely excellent manner?
 
