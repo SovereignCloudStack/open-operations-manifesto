@@ -1,0 +1,11 @@
+a {
+  color: #4f5b8c!important;
+  font-style: italic;
+}
+
+[data-theme="dark"] {
+  a {
+    color: #f8a7d6!important;
+    font-style: italic;
+  }
+}
