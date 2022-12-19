@@ -4,5 +4,6 @@
   },
   "dependencies": {
     "masonry-layout": "^4.2.2"
+    "fork-awesome": "^1.2.0"
   }
 }

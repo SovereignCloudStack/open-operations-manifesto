@@ -5,9 +5,6 @@ description: Building a community of practice and transparency for Operations
 # you can leave both of them blank if you are deploying on a top-level domain.
 url: https://openoperations.org
 
-# footer
-footer: 'Open Operations Manifesto v0.1 – CC BY-SA'
-
 layout:
   theme_switch: true # enable or disable user toggle switch between light and dark theme
   link_new_tab: true # should external links open in a new tab (true) or in the current tab (false)
