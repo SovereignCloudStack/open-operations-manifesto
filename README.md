@@ -3,8 +3,9 @@
 ## Licenses
 
 The content of this repository is published under multiple licenses.
-The manifesto itself is licensed under [CC-BY-SA 4.0](LICENSE-DOCS).
+The manifesto itself is licensed under [CC-BY 4.0](LICENSE-DOCS).
 All source code is licensed under the [MIT](LICENSE-CODE) license.
+All logos are property of their respective owners.
 
 ## I want to sign the manifesto. How can I do this?
 
