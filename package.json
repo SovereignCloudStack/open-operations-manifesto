@@ -3,7 +3,7 @@
     "lato-font": "^3.0.0"
   },
   "dependencies": {
-    "masonry-layout": "^4.2.2"
+    "masonry-layout": "^4.2.2",
     "fork-awesome": "^1.2.0"
   }
 }
