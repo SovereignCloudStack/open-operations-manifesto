@@ -20,9 +20,7 @@ Please reach out to <info@openoperations.org> and send us your confirmation (alo
 
 ## I want to join the regular meetings
 
-~~We're currently meeting every Friday at 11:05 CET on <https://conf.scs.koeln:8443/SCS-Tech>. This is an open meeting and you're highly invited to join us!~~
-
-Regular meetings are suspended at this point in time check <https://scs.community/contribute/> for updates.
+We're currently meeting every four weeks shifted by 2 weeks after the SCS Lean Operator Coffee. You can find the dedicated calendar ics file here: <https://sovereigncloudstack.github.io/calendar/openops.ics> which is included in the SCS open community calendar here: https://scs.community/contribute/
 
 ## I want to keep in touch with the community
 
