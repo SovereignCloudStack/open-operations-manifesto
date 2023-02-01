@@ -20,7 +20,9 @@ Please reach out to <info@openoperations.org> and send us your confirmation (alo
 
 ## I want to join the regular meetings
 
-We're currently meeting every Friday at 11:05 CET on <https://conf.scs.koeln:8443/SCS-Tech>. This is an open meeting and you're highly invited to join us!
+~~We're currently meeting every Friday at 11:05 CET on <https://conf.scs.koeln:8443/SCS-Tech>. This is an open meeting and you're highly invited to join us!~~
+
+Regular meetings are suspended at this point in time check <https://scs.community/contribute/> for updates.
 
 ## I want to keep in touch with the community
 
