@@ -17,9 +17,9 @@ founding:
         role: Knowledge Management Engineer
       - name: Kurt Garloff
         role: CTO
-  - name: PlusServer
+  - name: plusserver GmbH
     logo: /assets/plusserver.png
-    url: "https://plusserver.de"
+    url: "https://www.plusserver.com"
     contributors:
       - name: Ralf Heiringhoff
         role: Cloud Architect
