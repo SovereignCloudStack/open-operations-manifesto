@@ -39,3 +39,10 @@ founding:
         role: Editor in Chief
 
 supporting:
+  - name: OSISM GmbH
+    logo: /assets/osism.png
+    url: "https://osism.cloud"
+  - name: Sovereign Cloud Stack
+    logo: /assets/scs-logo.png
+    url: "https://sovereigncloudstack.org"
+ 
