@@ -39,7 +39,7 @@ We encourage you to join our [mailing list](https://scs.sovereignit.de/mailman3/
 
 ## Supporting Organizations
 
-These organizations and people actively support the idea behind Open Operations:
+These organizations actively support the idea behind Open Operations:
 
 {% include supporting_organizations.html %}
 
