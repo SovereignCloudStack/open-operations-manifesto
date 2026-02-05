@@ -5,19 +5,6 @@
   <div class="col">
     <div class="card">
       <img src="{{organization.logo}}" class="card-img-top" alt="{{organization.name}}" class="card-img-top mx-auto d-block" style="padding: 30px; height: 150px; width: 300px; object-fit: contain; object-position: center;" >
-      <div class="card-body">
-        <p class="card-text">
-          <ul class="list-group list-group-flush">
-          {% assign contributors_sorted = organization.contributors | sort_natural: 'role' %}
-          {% for contributor in contributors_sorted %}
-            <li class="list-group-item" style="line-height: 1.2;">
-              <small>{{contributor.name}}</small><br/>
-              <small class="text-muted"><em>{{contributor.role}}</em></small>
-            </li>
-          {% endfor %}
-          </ul>
-        </p>
-      </div>
     </div>
   </div>
 {% endfor %}
