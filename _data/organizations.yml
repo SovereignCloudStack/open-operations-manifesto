@@ -45,4 +45,7 @@ supporting:
   - name: Sovereign Cloud Stack
     logo: /assets/scs-logo.png
     url: "https://sovereigncloudstack.org"
+  - name: artcodix GmbH
+    logo: /assets/artcodix.png
+    url: "https://www.artcodix.com"
  
